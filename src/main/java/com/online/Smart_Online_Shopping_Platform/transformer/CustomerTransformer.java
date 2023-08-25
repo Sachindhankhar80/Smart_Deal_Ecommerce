@@ -1,8 +1,8 @@
-package com.example.smartdeals.transformer;
+package com.online.Smart_Online_Shopping_Platform.transformer;
 
-import com.example.smartdeals.dto.request.CustomerRequestDto;
-import com.example.smartdeals.dto.response.CustomerResponseDto;
-import com.example.smartdeals.model.Customer;
+import com.online.Smart_Online_Shopping_Platform.dto.request.CustomerRequestDto;
+import com.online.Smart_Online_Shopping_Platform.dto.response.CustomerResponseDto;
+import com.online.Smart_Online_Shopping_Platform.model.Customer;
 import lombok.experimental.UtilityClass;
 
 // @UtilityClass   // for ensuring class is not instantiated but not a std. practice to write

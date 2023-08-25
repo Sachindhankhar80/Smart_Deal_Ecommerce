@@ -1,6 +1,6 @@
 package com.online.Smart_Online_Shopping_Platform.dto.response;
 
-import com.example.smartdeals.Enum.CardType;
+import com.online.Smart_Online_Shopping_Platform.Enum.CardType;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 

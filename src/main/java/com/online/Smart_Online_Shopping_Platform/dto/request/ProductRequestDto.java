@@ -1,6 +1,6 @@
 package com.online.Smart_Online_Shopping_Platform.dto.request;
 
-import com.example.smartdeals.Enum.ProductCategory;
+import com.online.Smart_Online_Shopping_Platform.Enum.ProductCategory;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Data;

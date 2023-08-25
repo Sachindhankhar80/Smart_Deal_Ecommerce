@@ -8,9 +8,9 @@ import com.online.Smart_Online_Shopping_Platform.exception.InsufficientQuantityE
 import com.online.Smart_Online_Shopping_Platform.exception.InvalidCardException;
 import com.online.Smart_Online_Shopping_Platform.exception.ProductNotFoundException;
 import com.online.Smart_Online_Shopping_Platform.model.*;
-importcom.online.Smart_Online_Shopping_Platform.repository.*;
-import com.example.smartdeals.transformer.ItemTransformer;
-import com.example.smartdeals.transformer.OrderTransformer;
+import com.online.Smart_Online_Shopping_Platform.repository.*;
+import com.online.Smart_Online_Shopping_Platform.transformer.ItemTransformer;
+import com.online.Smart_Online_Shopping_Platform.transformer.OrderTransformer;
 import jakarta.persistence.criteria.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;

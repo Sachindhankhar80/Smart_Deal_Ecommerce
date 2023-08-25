@@ -4,7 +4,7 @@ import com.online.Smart_Online_Shopping_Platform.dto.request.SellerRequestDto;
 import com.online.Smart_Online_Shopping_Platform.dto.response.SellerResponseDto;
 import com.online.Smart_Online_Shopping_Platform.model.Seller;
 import com.online.Smart_Online_Shopping_Platform.repository.SellerRepository;
-import com.example.smartdeals.transformer.SellerTransformer;
+import com.online.Smart_Online_Shopping_Platform.transformer.SellerTransformer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

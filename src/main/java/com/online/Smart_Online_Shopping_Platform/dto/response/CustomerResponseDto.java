@@ -1,6 +1,6 @@
 package com.online.Smart_Online_Shopping_Platform.dto.response;
 
-import com.example.smartdeals.Enum.Gender;
+import com.online.Smart_Online_Shopping_Platform.Enum.Gender;
 import jakarta.persistence.Column;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

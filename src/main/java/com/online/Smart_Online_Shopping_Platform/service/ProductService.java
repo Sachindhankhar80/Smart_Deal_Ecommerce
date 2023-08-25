@@ -9,7 +9,7 @@ import com.online.Smart_Online_Shopping_Platform.model.Seller;
 import com.online.Smart_Online_Shopping_Platform.repository.CustomerRepository;
 import com.online.Smart_Online_Shopping_Platform.repository.ProductRepository;
 import com.online.Smart_Online_Shopping_Platform.repository.SellerRepository;
-import com.example.smartdeals.transformer.ProductTransformer;
+import com.online.Smart_Online_Shopping_Platform.transformer.ProductTransformer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
